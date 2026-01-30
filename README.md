@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 ## Hey, I'm Salamuthu 👋:
 🎓 I’m a Computer Science undergraduate  <br>💻 I’m interested in full-stack development (MERN), Python, and software engineering  <br>🤖 Exploring Machine Learning & Deep Learning concepts  <br>📊 Learning problem-solving, data structures, and real-world application building  <br>🤝 Open to collaborating on tech, data, and sports-tech projects  <br>⚡ Fun fact: I balance competitive athletics with coding 💪💻  <br>
 
